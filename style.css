@@ -1,0 +1,33 @@
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+<header> mental illness
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+<h1> mental illness </h1>
+li a:hover:not(.active) {
+  background-color: #111;
+}
+
+.active {
+  background-color: #04AA6D;
+}
+<p>Mental illness refers to a wide range of conditions that affect a person's thoughts, emotions, behaviors, and overall well-being. It can manifest in various forms, including depression, anxiety disorders, bipolar disorder, schizophrenia, and more. These conditions can be influenced by genetic, environmental, and psychological factors, and their impact varies from person to person. While mental illnesses can pose significant challenges, they are often manageable with proper treatment, support, and awareness. Seeking professional help, maintaining a strong support system, and practicing self-care are key steps in promoting mental health and resilience. Addressing mental health with understanding and compassion is crucial in breaking stigma and ensuring that those struggling receive the care they need.</p>
+<img src="img_chania.jpg" alt="Fl">
+<footer>
+  <p>Author: Hege Refsnes</p>
+  <p><a href="mailto:hege@example.com">hege@example.com</a></p>
+</footer> 
